@@ -1,0 +1,2 @@
+RewriteEngine On
+Redirect 301 https://discord.com/oauth2/authorize?client_id=860428971892015145&permissions=305450048&scope=bot%20applications.commands
